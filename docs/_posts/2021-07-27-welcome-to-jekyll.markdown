@@ -54,17 +54,17 @@ categories: jekyll update
 
 
 
-![](https://github.com/phamlinh02/phamlinh02.github.io/blob/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.001.png)
+![](https://raw.githubusercontent.com/phamlinh02/phamlinh02.github.io/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.001.png)
 
 - **Bước 2**: Thực hiện lần lượt các câu lệnh sau:
   - ssh-keygen, nhấn enter cho đến khi hiện ra được như hình dưới là đã tạo được các key (public key & private key) trên máy tính
     - Lưu ý đường dẫn của các file key được tạo (đã được git thông báo trong quá trình cài đặt – Hình dưới)
 
-![](Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.002.png)
+![](https://raw.githubusercontent.com/phamlinh02/phamlinh02.github.io/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.002.png)
 
 - eval $(ssh-agent)
 
-![](Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.003.png)
+![](https://raw.githubusercontent.com/phamlinh02/phamlinh02.github.io/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.003.png)
 
 
 
@@ -74,7 +74,7 @@ categories: jekyll update
 
 - ssh-add path/to/id\_rsa ( đường dẫn trong máy đến thư mục id\_rsa)
 
-![](Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.004.png)
+![](https://raw.githubusercontent.com/phamlinh02/phamlinh02.github.io/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.004.png)
 
 - Mở thư mục id\_rsa.pub ra, copy toàn bộ dữ liệu trong đó và copy lên Github ( Nhấn chuột phải, chọn Open With- chọn Notepad)
   - Truy cập vào Github trên web, mở **Settings**, Chọn **SSH and GPG Keys**.

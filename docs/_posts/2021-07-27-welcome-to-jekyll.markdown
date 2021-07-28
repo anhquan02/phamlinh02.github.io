@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Tìm hiểu về Git và Github
 title:  "Welcome to LINH!"
 date:   2021-07-27 23:34:18 +0700
 categories: jekyll update

@@ -54,7 +54,7 @@ categories: jekyll update
 
 
 
-![](Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.001.png)
+![](https://github.com/phamlinh02/phamlinh02.github.io/blob/master/docs/_posts/Aspose.Words.3ed05f72-565b-4f59-a3e2-bb38f6ce1cef.001.png)
 
 - **Bước 2**: Thực hiện lần lượt các câu lệnh sau:
   - ssh-keygen, nhấn enter cho đến khi hiện ra được như hình dưới là đã tạo được các key (public key & private key) trên máy tính

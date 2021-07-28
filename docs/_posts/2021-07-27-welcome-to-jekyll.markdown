@@ -4,7 +4,7 @@ title:  "Tìm hiểu về Git và Github"
 date:   2021-07-27 23:34:18 +0700
 categories: jekyll update
 ---
-﻿**Git và GitHub**
+﻿                           **Git và GitHub**
 
 (Đây là cách dùng git để làm việc cá nhân thôi nhé :v )
 
